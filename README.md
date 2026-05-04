@@ -73,7 +73,7 @@ After the run:
 test_automation_ui/
 ├── image_preview_test.py   # Main Playwright test script
 ├── execution_results.csv   # Auto-generated test results
-├── sample.png              # Default test image (auto-created if missing)
+├── sample.png              # Default test image 
 ├── README.md               # This file
 └── results/                # Screenshots from test runs
     └── preview_pass.png
